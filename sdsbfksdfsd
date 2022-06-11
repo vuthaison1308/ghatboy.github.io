@@ -1,0 +1,1 @@
+spawn(function() while wait() do print("daicamongey") end end)
